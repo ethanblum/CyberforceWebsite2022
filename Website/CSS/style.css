@@ -1,0 +1,186 @@
+.topnav {
+  background-color: #525252;
+  overflow: hidden;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.topnav a.topBut {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 25px 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a.topBut:hover {
+  background-color: #4f9dc6;
+  color: black;
+}
+
+.topnav img.active {
+  float: left;
+  max-height: 60px;
+  max-width: 400px;
+  padding:4px 5px;
+}
+
+.SolarPanImg {
+	text-align: center;
+	display: block;
+	margin: auto;
+	max-height: 75%;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.Fields {
+	border-style: groove;
+	border-width: 4px;
+	border-color: black;
+	border-radius: 10px;
+	margin: auto;
+	max-height: 50%;
+	max-width: 79%;
+	overflow: hidden;
+}
+
+.table {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+.table-Solar{
+	float: left;
+	padding-left: 20%;
+}
+
+.table-Power{
+	float: right;
+	padding-right: 20%;
+}
+
+.SonnenbergFields {
+	text-align: center;
+	background-color: #525252;
+	color: #f2f2f2;
+}
+
+.footer {
+  background-color: #525252;
+  overflow: hidden;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 10px;
+  display: flex;
+} 
+
+.footer-img img {
+	display: inline-block;
+	max-height: 60px;
+	max-width: 400px;
+	padding:4px 5px;
+}
+
+.footer-but button {
+	display: inline-block;
+	text-align: center;
+	height: 60px;
+	width: 150px;
+	padding:4px 5px;
+	background-color: #4f9dc6;
+}
+
+.footer-but button:hover {
+	display: inline-block;
+	text-align: center;
+	height: 60px;
+	width: 150px;
+	padding:4px 5px;
+	background-color: #f2f2f2;
+}
+
+.footer-ul ul {
+	display: inline-block;
+	text-decoration: none;
+}
+
+.footer-but{
+	margin: auto;
+	display: inline-block;
+	padding:4px 5px;
+}
+
+.footer-img {
+	margin: auto;
+	float: left;
+	display: inline-block;
+}
+
+.footer-ul {
+	margin: auto;
+	display: inline-block;
+	padding-bottom: 10px;
+}
+	
+	
+.ContactWindow {
+	border-style: groove;
+	border-width: 4px;
+	border-color: black;
+	border-radius: 10px;
+	margin: auto;
+	height: 50%;
+	width: 79%;
+	overflow: hidden;
+	display: block-inline;
+}
+
+.ContactInfo {
+	display: block-inline;
+	color: #f2f2f2;
+	text-decoration: none;
+}
+
+.ContactForm {
+	display: block-inline;
+	color: #f2f2f2;
+	text-decoration: none;
+}
+
+.LogInWindow {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	margin: auto;
+	height: 50%;
+	width: 79%;
+	overflow: hidden;
+	display: block-inline;
+}
+
+.LoginBox {
+	background-color: #525252;
+	text-align: center;
+	display: block-inline;
+	color: #f2f2f2;
+	text-decoration: none;
+	border-style: groove;
+	border-width: 4px;
+	border-color: black;
+	border-radius: 10px;
+	margin: auto;
+	height: 70%;
+	width: 50%;
+	overflow: hidden;
+	display: block-inline;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+
+.LoginBox input {
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
